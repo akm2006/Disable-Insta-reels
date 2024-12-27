@@ -3,11 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.2
 // @description  Hide Instagram reels and the explore button from the webpage
-// @author       Your Name
+// @author       AKM777
 // @match        https://www.instagram.com/*
 // @grant        none
 // ==/UserScript==
-
+// @license MIT
 (function () {
     'use strict';
 
