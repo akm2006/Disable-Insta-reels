@@ -1,7 +1,5 @@
 # Disable-insta-reels
 A script to hide Instagram reels and the Explore button on browser
-# Disable Insta Reels
-
 This userscript hides Instagram reels and the Explore button for a cleaner browsing experience.
 
 ## Features
