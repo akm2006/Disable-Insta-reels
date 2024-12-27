@@ -10,7 +10,7 @@ This userscript hides Instagram reels and the Explore button for a cleaner brows
 
 ## Installation
 1. Install a browser extension like [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [here](https://github.com/akm2006/Disable-Insta-reels/raw/main/disable-insta-reels.user.js) to download the script directly or create a new script in Tampermonkey and copy the contents of disable-insta-reels.user.js .
+2. Click [here](https://github.com/akm2006/Disable-insta-reels/blob/main/hide-instagram-reels-and-explore.user.js) to download the script directly or create a new script in Tampermonkey and copy the contents of disable-insta-reels.user.js .
 3. Refresh Instagram to see the changes.
 
 ## License
